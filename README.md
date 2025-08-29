@@ -48,10 +48,9 @@ I’m especially interested in **exploratory data analysis, data visualization, 
 
 ⭐ *Feel free to reach out if you’d like to collaborate or chat about data!*
 
+---
 
 📌 Versión en español
-
-  # 👋 ¡Hola! Soy Jovanny Duval
 
 Soy **Data Analyst** con experiencia en **Python, SQL, Excel y Power BI**, especializado en transformar datos en insights accionables para apoyar la toma de decisiones.  
 Actualmente estoy ampliando mis habilidades como **Full Stack Developer**, lo que me permite tener una visión más completa de cómo los datos se integran en aplicaciones y entornos web.  
