@@ -23,7 +23,7 @@ I’m especially interested in **exploratory data analysis, data visualization, 
   Exploratory data analysis with **Python** to identify the key factors that influence housing prices.  
   *Stack:* Pandas, Seaborn, Matplotlib  
 
-- [📈 Sales Dashboard with Power BI](link_to_repo)  
+- [📈 Sales Dashboard with Power BI](https://github.com/JovannyDP/powerbi-sales-analytics/tree/main)  
   Designed an interactive dashboard to monitor **sales KPIs, profit margins, and customer trends**.  
 
 - [🧹 Medical Data Cleaning & Analysis](link_to_repo)  
