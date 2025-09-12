@@ -28,7 +28,11 @@ I’m especially interested in **exploratory data analysis, data visualization, 
 
 - [🧹 Medical Data Cleaning & Analysis](link_to_repo)  
   Data cleaning and exploratory analysis of medical records.  
-  *Stack:* SQL, Python (Pandas)  
+  *Stack:* SQL, Python (Pandas)
+
+- [📝 Report Modification for Consumer Requirements](https://github.com/JovannyDP/thromboprophylaxis-timeliness-analysis)
+  Modified report to meet customer specifications using SQL Server Management Studio, Visual Studio, and SQL Server Reporting Services.
+  *Stack:* SQL, SSRS, Visual Studio
 
 ---
 
