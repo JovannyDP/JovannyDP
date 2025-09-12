@@ -26,9 +26,9 @@ I’m especially interested in **exploratory data analysis, data visualization, 
 - [📈 Sales Dashboard with Power BI](https://github.com/JovannyDP/powerbi-sales-analytics/tree/main)  
   Designed an interactive dashboard to monitor **sales KPIs, profit margins, and customer trends**.  
 
-- [🧹 Medical Data Cleaning & Analysis](link_to_repo)  
+- [🧹 Medical Data Cleaning & Analysis](https://github.com/JovannyDP/intrathecal-morphine-analysis)  
   Data cleaning and exploratory analysis of medical records.  
-  *Stack:* SQL, Python (Pandas)
+  *Stack:* SQL, Excel
 
 - [📝 Report Modification for Consumer Requirements](https://github.com/JovannyDP/thromboprophylaxis-timeliness-analysis)  
   Modified report to meet customer specifications using SQL Server Management Studio, Visual Studio, and SQL Server Reporting Services.
@@ -73,16 +73,20 @@ Me apasiona el **análisis exploratorio de datos, visualización de datos, autom
 
 ## 📊 Proyectos destacados
 
-- [🏡 Análisis de viviendas en Ames, Iowa](link_al_repo)  
+- [🏡 Análisis de viviendas en Ames, Iowa](https://github.com/JovannyDP/housing-price-exploration)  
   Exploración de dataset con **Python** para identificar los factores que más influyen en el precio de una vivienda.  
   *Stack:* Pandas, Seaborn, Matplotlib  
 
-- [📈 Dashboard de ventas con Power BI](link_al_repo)  
+- [📈 Dashboard de ventas con Power BI](https://github.com/JovannyDP/powerbi-sales-analytics/tree/main)  
   Creación de un dashboard interactivo para monitorizar **KPI de ventas, márgenes y clientes**.  
 
-- [🧹 Limpieza y análisis de datos médicos](link_al_repo)  
+- [🧹 Limpieza y análisis de datos médicos](https://github.com/JovannyDP/intrathecal-morphine-analysis)    
   Proyecto de análisis y limpieza de registros médicos.  
-  *Stack:* SQL, Python (Pandas)  
+  *Stack:* SQL, Excel
+
+- [📝 Modificación de informes para requerimientos del consumidor](https://github.com/JovannyDP/thromboprophylaxis-timeliness-analysis)  
+  Modificación de informes para cumplir con las especificaciones del cliente utilizando SQL Server Management Studio, Visual Studio y SQL Server Reporting Services.
+  *Stack:* SQL, SSRS, Visual Studio
 
 ---
 
