@@ -3,6 +3,7 @@
 📌 English version
 
 I’m a **Data Analyst** with experience in **Python, SQL, Excel, and Power BI**, passionate about transforming raw data into actionable insights that drive decision-making.  
+
 I’m currently expanding my skill set by studying **Full Stack Development**, which gives me a broader perspective on how data integrates with applications and web environments.  
 
 I’m especially interested in **exploratory data analysis, data visualization, report automation and interactive dashboards**.
