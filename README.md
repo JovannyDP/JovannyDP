@@ -46,7 +46,7 @@ I’m especially interested in **exploratory data analysis, data visualization, 
 ## 📬 Connect with me
 
 - 🖇️ [LinkedIn](https://www.linkedin.com/in/jovannyduval/)  
-- 📧 [Email](jovannyedp.job@gmail.com) 
+- 📧 Email: jovannyedp.job@gmail.com 
 
 ---
 
@@ -100,7 +100,7 @@ Me apasiona el **análisis exploratorio de datos, visualización de datos, autom
 ## 📬 Conecta conmigo
 
 - 🖇️ [LinkedIn](https://www.linkedin.com/in/jovannyduval/)  
-- 📧 [Email](jovannyedp.job@gmail.com)  
+- 📧 Email: jovannyedp.job@gmail.com  
 
 ---
 
