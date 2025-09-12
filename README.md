@@ -19,7 +19,7 @@ I’m especially interested in **exploratory data analysis, data visualization, 
 
 ## 📊 Featured Projects
 
-- [🏡 Ames Housing Data Analysis](link_to_repo)  
+- [🏡 Ames Housing Data Analysis](https://github.com/JovannyDP/housing-price-exploration) 
   Exploratory data analysis with **Python** to identify the key factors that influence housing prices.  
   *Stack:* Pandas, Seaborn, Matplotlib  
 
