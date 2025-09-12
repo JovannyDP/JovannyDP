@@ -58,6 +58,7 @@ I’m especially interested in **exploratory data analysis, data visualization, 
 📌 Versión en español
 
 Soy **Data Analyst** con experiencia en **Python, SQL, Excel y Power BI**, especializado en transformar datos en insights accionables para apoyar la toma de decisiones.  
+
 Actualmente estoy ampliando mis habilidades como **Full Stack Developer**, lo que me permite tener una visión más completa de cómo los datos se integran en aplicaciones y entornos web.  
 
 Me apasiona el **análisis exploratorio de datos, visualización de datos, automatización de reportes y la construcción de dashboards interactivos**.
